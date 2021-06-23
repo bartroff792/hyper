@@ -1,0 +1,5 @@
+Package: hyperMCI
+Type: Package
+Title: Confidence interval for Hyper M
+Version: 0.1.0
+RoxygenNote: 7.1.1
